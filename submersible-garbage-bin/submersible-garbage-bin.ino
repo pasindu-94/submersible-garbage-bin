@@ -1,5 +1,15 @@
 /*===================================================================
 
+  This code is used to develop a submersible Garbage Bin which would emerge with a push of a button using servo motors.
+  The Bin is equipped with ultrasonic sensor to measure the garbage levels
+  It is also equipped with a GSM module to check the status of the bin and also to send alerts when the bin is full.
+
+  DEVELOPER: Pasindu Liyanage
+  DATE: 2019.10.04
+  =====================================================================*/
+
+/*===================================================================
+
           //Servo Motors
 
   =====================================================================*/
